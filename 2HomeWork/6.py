@@ -1,4 +1,4 @@
-my_list = []
+my_list = []#
 dict_list = []
 new_dict = {}
 count_line = int(input('Сколько вводить позиций'))

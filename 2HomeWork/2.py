@@ -1,4 +1,4 @@
-input_list_str=input('Введите значения через пробел')
+input_list_str=input('Введите значения через пробел')#
 input_list=input_list_str.split()
 print(input_list)
 count=0

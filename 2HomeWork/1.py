@@ -27,4 +27,3 @@ data_type.append(non_char)
 
 for i in data_type:
     print(type(i),' - ',i)
-#print(data_type)

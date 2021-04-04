@@ -1,4 +1,4 @@
-my_list = [7, 5, 3, 3, 2]
+my_list = [7, 5, 3, 3, 2]#
 
 new_int = int(input('Введите целое число'))
 my_list.append(new_int)
