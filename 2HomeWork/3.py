@@ -13,3 +13,7 @@ counter=int(input('Введите номер месяца'))
 print(f'через список: {months_list[counter-1]}')# через список
 
 print(f'через словарь: {months_dict.get(counter)}')# через словарь
+
+#a=input()
+#if a.isdigit():
+#        print('число')

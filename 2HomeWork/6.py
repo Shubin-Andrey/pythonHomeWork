@@ -23,3 +23,6 @@ for counter in my_dict.keys():
 
 for counter in new_dict.keys():
     print(f'{counter} : {new_dict.get(counter)}')
+
+#lambda - изучить функции
+#map
