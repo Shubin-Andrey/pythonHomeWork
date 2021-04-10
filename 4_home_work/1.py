@@ -1,3 +1,4 @@
+#Первая задача
 from sys import argv
 
 script_name, working_time, time_price, prize = argv

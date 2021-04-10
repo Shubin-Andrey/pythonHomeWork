@@ -1,3 +1,4 @@
+#Пятая задача
 from functools import reduce
 def my_multiplication(first, second):
     return first * second

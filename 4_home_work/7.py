@@ -1,3 +1,4 @@
+#Седьмая задача
 def fact(n):
     for el in range(int(n)):
         yield el

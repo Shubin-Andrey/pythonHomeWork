@@ -1,3 +1,4 @@
+#Шестая задача
 from itertools import count, cycle
 from sys import argv
 
